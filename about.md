@@ -1,0 +1,45 @@
+---
+layout: page
+title: "关于我"
+description: "传播、解读、探索心理大世界 "
+header-img: "img/green.jpg"
+---
+
+
+我是张李斌，一名心理学研究生，也是一名数据分析技术爱好者，这是我的博客，在这里有我分享的数据分析教程，也有关于心理的文章，还有我的随笔。
+
+
+###坚信
+
+
+- 元认知乃一切之源
+- 一切技能皆可习得，包括写作
+- 「持续」并不是坚持，写就是最好的回报
+- 真正的高贵是优于昨天的自己
+
+
+###关注：
+
+
+- [元认知](http://www.mesule.com/)
+- 写作
+- Python
+- MATLAB
+- [阳志平](http://www.yangzhiping.com/)
+
+
+
+###我的朋友们
+
+- [余系东](http://foronething.xyz)
+
+
+###联系
+
+- [博客：www.zhanglibin.pro](www.zhanglibin.pro)
+
+- [微博@诺颜爱](http://weibo.com/nuoyanai)
+
+- [知乎@张李斌](http://www.zhihu.com/people/Feat)
+
+- 公众号：心理统计与数据分析
