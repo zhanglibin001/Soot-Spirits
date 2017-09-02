@@ -8,14 +8,13 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Abhishek Nagekar's Blog
-tagline: Code, Science, Philosophy, Humor
-author :
-  name : Abhishek Nagekar
-  email : abhishek@nagekar.com
-  github : abhn
-  twitter : abhisheknagekar
-  feedburner : AbhishekN
+title : 张口谈心
+tagline: 数据科学，心理学，随笔
+author :leobin
+  name : 张李斌
+  email : emilzlb@163.com
+  github : zhanglibin001
+  
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +24,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://www.nagekar.com
+production_url : https://www.zhanglibin.pro
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -82,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : nagekar
+      short_name : leobin
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
